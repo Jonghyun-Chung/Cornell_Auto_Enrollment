@@ -15,3 +15,6 @@ If you want to choose 2021 Summer in the above picture, you will put len(buttons
 >python enroll_while.py "netid" "password"   
 >use **enroll_while.py** when you want to add courses that are currently closed   
 >use **enroll_before.py** when you are waiting for your enrollment period. It checks whether it is a valid enrollment time or not.
+
+## Tips 
+>you can use headless chrome for better speed  
