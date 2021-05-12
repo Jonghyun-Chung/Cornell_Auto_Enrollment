@@ -17,4 +17,4 @@ If you want to choose 2021 Summer in the above picture, you will put len(buttons
 >use **enroll_before.py** when you are waiting for your enrollment period. It checks whether it is a valid enrollment time or not.
 
 ## Tips 
->you can use headless chrome for better speed  
+>you can use headless chrome for a better speed  
